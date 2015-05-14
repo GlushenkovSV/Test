@@ -1,2 +1,3 @@
 add from hotfix breanch
-еще изменения в хотикс
+don't supported russian text
+add text from testing breanch
